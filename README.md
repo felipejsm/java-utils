@@ -21,4 +21,5 @@ And it's a common problem to be solved when you're going to present data in a ta
 
 ###### Links     
 
-[Why Most Programmers Get Pagination Wrong](http://bit.ly/2HnzP14)
+[Why Most Programmers Get Pagination Wrong](http://bit.ly/2HnzP14)     
+[Pagination w/ JPA](http://www.baeldung.com/jpa-pagination)
