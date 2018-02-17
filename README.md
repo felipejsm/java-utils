@@ -17,4 +17,8 @@ By definition it is, according to [this](http://bit.ly/2C5zdxN):
 > : the action of paging : the condition of being paged     
 > : the numbers or marks used to indicate the sequence of pages (as of a book)    
 
-And it's a common problem to be solved when you're going to present data in a table    
+And it's a common problem to be solved when you're going to present data in a table      
+
+###### Links     
+
+[Why Most Programmers Get Pagination Wrong](http://bit.ly/2HnzP14)
