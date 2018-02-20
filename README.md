@@ -8,9 +8,8 @@
 
 | Problem        | Status        | 
 | -------------  |:-------------:| 
-| [Pagination](http://bit.ly/1TyCmqD)     | To Do         | 
+| [Pagination](pagination/pagination.md)     | To Do         | 
 | Empty Slot     | To Do         | 
 
-# [Pagination](pagination/pagination.md)
 
 
