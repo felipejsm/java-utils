@@ -1,6 +1,6 @@
 # [Pagination](http://bit.ly/1TyCmqD)      
 
-By definition it is, according to [this](http://bit.ly/2C5zdxN): 
+By [definition](http://bit.ly/2C5zdxN) it is: 
 > : the action of paging : the condition of being paged     
 > : the numbers or marks used to indicate the sequence of pages (as of a book)    
 
