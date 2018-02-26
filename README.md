@@ -8,7 +8,8 @@
 
 | Problem        | Status        | 
 | -------------  |:-------------:| 
-| [Pagination](pagination/pagination.md)     | To Do         | 
+| [Database](database/database.md)           | To Do         | 
+| [Pagination](pagination/pagination.md)     | On Hold       | 
 | Empty Slot     | To Do         | 
 
 
